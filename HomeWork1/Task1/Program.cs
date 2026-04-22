@@ -1,4 +1,4 @@
-﻿namespace HelloWorld;
+﻿namespace Task1;
 
 class Program
 {
